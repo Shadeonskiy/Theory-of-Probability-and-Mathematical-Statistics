@@ -1,0 +1,6 @@
+
+Mode and median of given dataset
+
+Number of films: 10
+Element 1 occurs 3 times, therefore 1 is mode of the data
+Element 12.0 is median of given dataset

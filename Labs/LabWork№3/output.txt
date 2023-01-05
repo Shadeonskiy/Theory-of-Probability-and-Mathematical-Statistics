@@ -1,0 +1,8 @@
+Workable file: input_10.txt
+Center of gravity = G(3.89, 35.0)
+Covariance = 23.0
+Regression line equation: y = 9.953418482344103x - 3.7353869271224625
+Correlation coefficient = 0.9010014623100246
+Workable file: input_10.txt
+Center of gravity = G(3.89, 35.0)
+Covariance = 23.0

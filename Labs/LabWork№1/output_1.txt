@@ -1,0 +1,9 @@
+Number of films: 10
+ Film |	 Frequency	| Cumulative Frequency
+    1 |     3		|      3
+   10 |     1		|      4
+   12 |     2		|      6
+   66 |     2		|      8
+   75 |     1		|      9
+   97 |     1		|     10
+The most watched film from this distribution is 1 - 3 times
